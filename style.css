@@ -1,0 +1,82 @@
+.headtop {
+    background-color:  #faef36 ;
+}
+
+.header {
+    background-color: green
+}
+
+
+.nav-link {
+    color: #faef36 ;
+}
+
+.container {
+    display: flex;
+}
+.hero {
+    background-color: green;
+}
+
+.englebert-regular {
+    font-family: "Englebert", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  // <uniquifier>: Use a unique and descriptive class name
+  // <weight>: Use a value from 100 to 900
+  
+  .montserrat-<uniquifier> {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+
+body{
+    font-family: Montserrat;
+}
+
+h1 {
+    font-family: englebert;
+    font-size: 3rem;
+    color: #faef36;
+
+}  
+h2 {
+    font-family: englebert;
+}
+h4 {
+    font-family: englebert;
+}
+
+.lead {
+    color: #faef36
+}
+
+#hero-button {
+    background-color: ;
+}
+.hero-image {
+    border: 5px solid black;
+}
+#who-am-i {
+    background-color:#faef36 ;
+    color: green;
+}
+
+.past-projects {
+    background-color: green;
+}
+.card-title {
+    font-family: englebert;
+}
+
+.footer {
+    background-color: #faef36;
+}
+
+
+
+
+
